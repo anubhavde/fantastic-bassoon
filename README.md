@@ -22,3 +22,4 @@ cd "directory where this project exitsts"</p>
 <p>
   python play.py
 </p>
+It is inspired from CS50AI.
