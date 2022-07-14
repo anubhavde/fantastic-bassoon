@@ -1,4 +1,7 @@
-# reinforcement-learning-nim
+# **fantastic-bassoon**
+
+## **Reinforcement Learning to play a game - Nim**
+
 Applying Reinforcement Learning to play a simple game
 
 <p>
@@ -9,19 +12,14 @@ Applying Reinforcement Learning to play a simple game
 </p>
 <p>In particular, I have used Q-learning for this project.</p>
 <p>
-<b>First, run the below commands to get to the correct directory:</b>
-</p>
-<p>
-cd "directory where this project exitsts"</p>
-<p>
-  cd reinforcement-learning-nim/nim
-</p>
-<p>
-<b>Next, you have to run this command to play against the AI:  </b>
-</p>
-<p>
-  python play.py
-</p>
-<p>
-It is inspired from CS50AI.
-</p>
+First, run the below commands to get to the correct directory:
+```console
+cd <directory where this repository exists>
+```
+```console
+cd reinforcement-learning-nim/nim
+```
+Next, you have to run this command to play against the AI:
+```console
+python play.py
+```
