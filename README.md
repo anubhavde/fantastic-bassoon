@@ -14,7 +14,7 @@ First, run the below commands to get to the correct directory:
 cd <directory where this repository exists>
 ```
 ```console
-cd reinforcement-learning-nim/nim
+cd fantastic-bassoon/nim
 ```
 Next, you have to run this command to play against the AI:
 ```console
